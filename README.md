@@ -1,6 +1,6 @@
 # ***Social app for music lovers***
 
-Video: https://youtu.be/Bu92NFbdBJs
+Video: https://youtu.be/Bu92NFbdBJs   
 Link to website: https://spolecznosciowa-aplikacja-web.herokuapp.com/
 
 ~~~
